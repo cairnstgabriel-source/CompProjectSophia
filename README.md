@@ -8,7 +8,7 @@
 ```
     conda activate ppp
 ```
-**Double Check the kernel in the top right is PhysProjPrython**
+**Double Check the kernel in the top right is PhysProjPython**
 
 **Don't use plt.show just use plt.savefig**
 
